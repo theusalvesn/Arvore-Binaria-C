@@ -1,7 +1,4 @@
 # Arvore-Binaria-C
 
 # Desafio
-
-Desenvolver um sistema em C para inserir, buscar, remover e listar contatos utilizando uma árvore binária
-de busca. Os contatos serão organizados pelo nome.
-
+Este projeto foi desenvolvido durante a faculdade com o objetivo de criar um sistema em C ou C++ para gerenciar contatos utilizando uma Árvore Binária de Busca (BST - Binary Search Tree). O sistema permite a inserção, busca, remoção e listagem de contatos, organizados alfabeticamente pelo nome.
